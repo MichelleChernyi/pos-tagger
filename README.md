@@ -1,7 +1,5 @@
 # pos-tagger
-
-- average accuracy of 87%
-- uses Viterbi algorithm and Hidden Markov Model 
+A NLP program that uses the Hidden Markov Model and Viterbi Algorithm to perform Part-of-Speech tagging with an average accuracy of 87%
 
 # Running the program 
 Note: you must have python3 to run the program
