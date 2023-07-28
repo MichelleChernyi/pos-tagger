@@ -1,5 +1,7 @@
 # pos-tagger
 
+- average accuracy of 87%
+- uses Viterbi algorithm and Hidden Markov Model 
 
 # Running the program 
 Note: you must have python3 to run the program
